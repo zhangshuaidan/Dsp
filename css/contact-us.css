@@ -1,0 +1,68 @@
+.message{
+	text-align: center;
+	font-size: 16px;
+	margin-bottom: 50px;
+}
+.message-main{
+	width: 600px;
+	margin: 20px auto;
+	text-align: left;
+}
+table tr>td{
+	width: 110px;
+	height: 30px;
+
+}
+
+input{
+	width: 100%;
+	border: none;
+	padding-left: 8px;
+}
+.forline{
+	position: relative;
+}
+.line{
+
+	height: 1px;
+	width: 100%;
+	background-color:#d6d6d6;
+}
+.l-line{
+	position: absolute;
+	left: 0;
+	height: 15px;
+	width: 2px;
+	top: -14px;
+	background-color: #d6d6d6;
+
+}
+.r-line{
+	position: absolute;
+	right: 0;
+	top: -14px;
+	height: 15px;
+	width: 2px;
+	background-color: #d6d6d6;
+
+}
+.chkb{
+	width: 20px;
+}
+.show-in{
+	width: 250px;
+	border: 1px solid #a7a7a7;
+}
+#txta{
+	width: 450px;
+	height: 150px;
+	padding: 10px;
+}
+.tijiao{
+	width: 100px;
+	padding:10px;
+	color: #fff;
+	background-color: #ff605d;
+	border-radius: 5px;
+	border:1px solid #ff605d;
+}

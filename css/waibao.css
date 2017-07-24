@@ -1,0 +1,109 @@
+/*服务内容*/
+.server-con{
+	height: 440px;
+	text-align: center;
+	padding-top: 20px;
+	box-sizing:border-box;
+	position: relative;
+	background-color: #fff;
+}
+.server-con>h2{
+	color: #e94b59;
+}
+.server-main{
+	margin-top: 20px;
+	position: absolute;
+	left:438px;
+	width: 1028px;
+}
+/*服务流程*/
+.server-liu{
+	height: 740px;
+	background-color: #f2f0f0;
+	position: relative;
+	text-align: center;
+	padding-top: 50px;
+}
+.server-liu>h2{
+	color: #e94b59;
+}
+.server-white{
+	width: 0;
+	height: 0;
+	border:30px solid transparent;
+	border-top-color: #fff;
+	left: 48.5%;
+	position: absolute;
+	top: 0;
+}
+.xiasanjiao{
+	position: absolute;
+	left: 49.2%;
+}
+.server-l>li>p{
+	text-align: right;
+}
+.server-l>li:first-child{
+	position: absolute;
+	left: 0px;
+	top: 115px;
+}
+.server-l>li:nth-child(2){
+	position: absolute;
+	left: 0px;
+	top: 510px;		
+}
+.server-r>li>p{
+	text-align: left;
+}
+.server-r>li{
+	position: absolute;
+}
+.server-r>li:first-child{
+	left: 1500px;
+	top: 250px;
+}
+.server-r>li:nth-child(2){
+	left: 1500px;
+	top: 408px;
+}
+/*用户案例*/
+.user-example{
+	text-align: center;
+	padding: 20px 0;
+	background-color: #fff;
+
+}
+.user-example>h2{
+	color: #e94b59;
+	margin: 20px 0;
+}
+/*咨询留言*/
+.zixun-ly{
+	padding-top: 20px;
+	position: relative;
+	background-color: #f2f0f0;
+	/*height: 610px;*/
+	text-align: center;
+}
+.zixun-ly>h2{
+	color: #e94b59;
+	margin: 20px 0;	
+}
+.zixun-main{
+	width: 580px;
+	margin: 20px auto 0;
+	padding-bottom: 20px;
+}
+#txta>textarea{
+	width: 400px;
+}
+.tijiao{
+	margin-right: 90px;
+	width: 100px;
+	padding:10px;
+	color: #fff;
+	background-color: #ff605d;
+	border-radius: 5px;
+	border:1px solid #ff605d;
+}

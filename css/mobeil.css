@@ -1,0 +1,122 @@
+/*首行*/
+.fir-bobeil-main{
+	width: 600px;
+	position: relative;
+	margin: 30px auto;
+	text-align: center;
+	font-family: 微软雅黑;
+	font-size: 20px;
+	height: 490px;
+
+}
+.fir-bobeil-main span{
+	color: #ea5413;
+
+}
+.fir-bobeil-main>p:nth-child(2){
+	margin-bottom: 20px;
+}
+.fir-bobeil-main>img:last-child{
+	position: absolute;
+	left: -1000px;
+	top: 260px;
+}
+/*国内资源*/
+.source{
+	position: relative;
+	background-color: #f2f0f0;
+	height: 410px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.source-main{
+	width: 1060px;
+	margin: 0 auto;
+}
+.source-main>ul>li{
+	float: left;
+	margin-left: 25px; 
+	margin-top: 20px;
+}
+.source-main>ul>li:hover{
+	transform: scale(1.1);
+}
+/*APP国外资源*/
+.source-outer{
+	text-align: center;
+	padding-top: 20px;
+}
+.source-outer-main{
+	margin: 30px 0;
+}
+/*资源位置*/
+.sorce-pos{
+	position: relative;
+	/*height: 410px;*/
+	padding-top: 30px;
+	background-color: #f2f0f0;
+	text-align: center;
+
+}
+.sorce-pos-main{
+	text-align: center;
+	width: 1030px;
+	margin: 0 auto;
+}
+.sorce-pos-main>li{
+	float: left;
+	margin: 20px 30px;
+}
+/*定向精准位置*/
+.dir-pos{
+	text-align: center;
+	padding: 20px 0;
+}
+.dir-pos>p:nth-child(2){
+	font-size: 25px;
+	font-weight: bold;
+}
+.dir-pos>p:nth-child(3){
+	font-size: 16px;
+	
+}
+.dir-pos-main{
+	position: relative;
+	width: 730px;
+	margin: 20px auto;
+}
+#dir-pos-txt{
+	position: absolute;
+	left: -950px;
+	top: 40px;
+}
+#dir-pos-txt2{
+	position: absolute;
+	left: 743px;
+	top: 40px;
+}
+/*四种受众数据*/
+.data{
+	position: relative;
+	text-align: center;
+	background-color: #f2f0f0;
+	padding: 30px 0;
+}
+.data>p:first-child{
+	font-size: 25px;
+	font-weight: bold;
+}
+.data>p:nth-child(2){
+	font-size: 16px;
+}
+.data-main{
+	position: relative;
+	margin: 20px 0;
+
+}
+#sz-data-2{
+	position: absolute;
+	left: -780px;
+	top: 15px;
+}

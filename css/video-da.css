@@ -1,0 +1,56 @@
+.combine{
+	text-align: center;
+	padding:20px 0; 
+	height: 510px;
+}
+.combine>p:nth-child(2){
+	font-size: 20px;
+}
+.combine>p:nth-child(2)>span{
+	color: #ea5413;
+}
+.combine-main{
+	position: relative;
+}
+.l-list>li{
+	float: right;
+}
+.l-list>li:nth-child(odd){
+	margin-left: 10px;
+}
+.l-list{
+	width: 290px;
+	margin-left: 430px;
+}
+.r-list{
+width: 290px;
+margin-right: 435px;
+}
+.r-list>li{
+	float: left;
+}
+.r-list>li:nth-child(even){
+	margin-left: 10px;
+}
+#comb{
+	position: absolute;
+	left: 688px;
+	top: -60px;
+}
+/*phone*/
+.phone{
+	position: relative;
+	height: 450px;
+	background-color: #f2f0f0;
+	padding-top: 30px;
+}
+.phone-list{
+	width: 770px;
+	margin: 20px auto;
+}
+.phone-list>li{
+	float: left;
+}
+.phone-list>li:nth-child(2){
+	margin: 0 68px;
+}
